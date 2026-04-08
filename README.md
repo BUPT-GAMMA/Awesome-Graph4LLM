@@ -9,9 +9,9 @@ This repository contains a curated list of resources on graph-enhanced large lan
 
 This paper presents a systematic and pipeline-oriented survey of **Graph4LLM**. We categorize existing Graph4LLM methods according to the three core phases of the LLM pipeline: <font color=hotpink>input phase</font>, where graphs structure prompts and incorporate external knowledge; <font color=purple>model phase</font>, where graphs guide internal computation or multi-agent coordination; and <font color=blue>output phase</font>, where graphs support structured reasoning, planning and verification. For each phase, we conduct a detailed review of key methods and their design trade-offs, further elaborate on the broad application scenarios of Graph4LLM in <font color=orange>general</font> tasks and <font color=green>specific domains</font>, and finally outline the critical challenges and promising future research directions for this field.
 
-![alt text](figs\Graph4LLM.png)
+![alt text](figs/Graph4LLM.png)
 
-![alt text](figs\Applications.png)
+![alt text](figs/Applications.png)
 
 
 ## Research Papers
@@ -57,7 +57,7 @@ This paper presents a systematic and pipeline-oriented survey of **Graph4LLM**. 
 
 ## 🔹 Input Phase
 
-![alt text](figs\Input.png)
+![alt text](figs/Input.png)
 
 ### Prompt from Knowledge Graph
 
@@ -102,7 +102,7 @@ This paper presents a systematic and pipeline-oriented survey of **Graph4LLM**. 
 ---
 
 ## 🔹 Model Phase
-![](figs\Model.png)
+![](figs/Model.png)
 ### Single Model
 
 #### External Graph Adapter
@@ -142,7 +142,7 @@ This paper presents a systematic and pipeline-oriented survey of **Graph4LLM**. 
 ---
 
 ## 🔹 Output Phase
-![](figs\Output.png)
+![](figs/Output.png)
 
 ### Reasoning
 
