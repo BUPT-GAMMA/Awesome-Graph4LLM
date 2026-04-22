@@ -3,6 +3,8 @@
 
 This repository contains a curated list of resources on graph-enhanced large language models (**Graph4LLM**).
 
+The link to the paper is as follows: [Are Graphs Useful for LLMs? A Comprehensive Survey of Graph-Enhanced Large Language Models](http://shichuan.org/doc/225.pdf)
+
 ## Overview
 
 
