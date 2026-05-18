@@ -5,6 +5,9 @@ This repository contains a curated list of resources on graph-enhanced large lan
 
 The link to the paper is as follows: [Are Graphs Useful for LLMs? A Comprehensive Survey of Graph-Enhanced Large Language Models](http://shichuan.org/doc/225.pdf)
 
+## 🎉News
+- [2026-04-30] Our paper [Graph4LLM: A Systematic Survey of Graph-Enhanced Large Language Models](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177100285.57294132/v1) is accepted by IJCAI 2026.
+
 ## Overview
 
 
@@ -20,6 +23,7 @@ This paper presents a systematic and pipeline-oriented survey of **Graph4LLM**. 
 
 ### 📑 Table of Contents
 - [Awesome-Graph4LLM](#awesome-graph4llm)
+  - [🎉News](#news)
   - [Overview](#overview)
   - [Research Papers](#research-papers)
     - [📑 Table of Contents](#-table-of-contents)
